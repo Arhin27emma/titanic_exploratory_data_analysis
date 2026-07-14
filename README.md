@@ -32,7 +32,6 @@ titanic-data-science-project/
 ├── src/
 │   └── titanic_analysis.py
 ├── README.md
-└── requirements.txt
 ```
 
 ## Dataset
@@ -55,23 +54,5 @@ The project uses the Titanic training dataset with 891 rows and 12 columns. The 
 - Strongest positive correlation: SibSp and Parch (0.415)
 - Strongest negative correlation: Pclass and Fare (-0.549)
 
-## How to Run the Project
 
-1. Create and activate a virtual environment.
-2. Install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Open notebook:
-
-```bash
-jupyter notebook notebooks/titanic_analysis.ipynb
-```
-
-run the Python script:
-
-```bash
-python src/titanic_analysis.py
 ```

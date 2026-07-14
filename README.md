@@ -64,20 +64,14 @@ The project uses the Titanic training dataset with 891 rows and 12 columns. The 
 pip install -r requirements.txt
 ```
 
-3. Open the notebook:
+3. Open notebook:
 
 ```bash
 jupyter notebook notebooks/titanic_analysis.ipynb
 ```
 
-Or run the Python script:
+run the Python script:
 
 ```bash
 python src/titanic_analysis.py
 ```
-
-## References
-- Kaggle. (n.d.). *Titanic - Machine Learning from Disaster*. Kaggle.
-- McKinney, W. (2022). *Python for Data Analysis*.
-- Pedregosa, F., et al. (2011). Scikit-learn: Machine Learning in Python.
-# titanic_exploratory_data_analysis
